@@ -1,2 +1,9 @@
 We just published our local git repo to remote GitHub.com
 repository
+
+Now our work will continue locally
+
+1. add
+2. commited
+3. we want this
+4. observe
